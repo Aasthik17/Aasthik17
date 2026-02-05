@@ -2,6 +2,13 @@
   <img src="./profile-hero.svg" alt="Aasthik Upadhyay — Software Developer" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AasthikUpadhyay/AasthikUpadhyay/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/AasthikUpadhyay/AasthikUpadhyay/output/github-contribution-grid-snake.svg" />
+</picture>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aasthik17&theme=github-dark)
+
 <!-- ===== PROFILE HEADER ===== -->
 <h1 align="center">Hi 👋, I'm Aasthik Upadhyay</h1>
 <h3 align="center">Software Developer</h3>

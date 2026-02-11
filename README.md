@@ -40,7 +40,7 @@ I enjoy working on:
 - Backend & distributed systems
 - Clean architecture and production-ready codebases
 
-🎓 **B.Tech CSE (AIML)** — *CGPA: 9.48 / 10*  
+🎓 **B.Tech CSE (AIML)** - *CGPA: 9.48 / 10*  
 🏆 Multiple **state-level hackathon wins** & national-level project presentations
 
 ---
@@ -81,7 +81,7 @@ I enjoy working on:
 **Tech:** Jetson Nano · Python · IoT Sensors · LSTM · ONNX  
 - Edge-based air quality monitoring with on-device ML inference  
 - Reduced cloud dependency & improved latency  
-- 🏆 **State Winner – Udbhav Hackathon 2025**  
+- 🏆 **State Winner - Udbhav Hackathon 2025**  
 - Felicitated at **Raj Bhavan (Govt. of Uttarakhand)**
 
 ---
@@ -116,8 +116,8 @@ Repo: https://github.com/Aasthik17/youtube-playlist-checker
 
 ## 🏅 Achievements & Leadership
 
-- 🥇 **1st Prize** — State Foundation Silver Jubilee Celebration  
-- 🏆 **State Winner** — Udbhav Hackathon 2025  
+- 🥇 **1st Prize** - State Foundation Silver Jubilee Celebration  
+- 🏆 **State Winner** - Udbhav Hackathon 2025  
 - 👥 **Joint Secretary, CSI UPES**  
   - Organized technical workshops & hackathons for **200+ students**
   - Bridged collaboration between students, faculty & industry mentors

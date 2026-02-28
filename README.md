@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/AasthikUpadhyay/AasthikUpadhyay/output/github-contribution-grid-snake.svg" />
 </picture>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aasthik17&theme=github-dark)
+<!--![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aasthik17&theme=github-dark)-->
 
 <!-- ===== PROFILE HEADER ===== -->
 <h1 align="center">Hi 👋, I'm Aasthik Upadhyay</h1>

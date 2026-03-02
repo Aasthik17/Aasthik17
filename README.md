@@ -16,9 +16,9 @@
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
-  <a href="mailto:aasthik.work08@gmail.com">
+  <!--<a href="mailto:aasthik.work08@gmail.com">
     <img src="https://img.shields.io/badge/Email-aasthik.work08%40gmail.com-informational?style=flat&logo=gmail" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/aasthik-upadhyay-0a5730213/">
     <img src="https://img.shields.io/badge/LinkedIn-Aasthik%20Upadhyay-blue?style=flat&logo=linkedin" />
   </a>
@@ -76,7 +76,7 @@ I enjoy working on:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 ### 🔹 Real-Time AQI Monitoring System
@@ -133,7 +133,7 @@ Repo: https://github.com/Aasthik17/youtube-playlist-checker
 - 🧠 **LeetCode:** [Aasthik17](https://leetcode.com/u/Aasthik17/)
 
 ---
-
+-->
 <p align="center">
   <i>Building software that scales, learns, and makes impact.</i>
 </p>

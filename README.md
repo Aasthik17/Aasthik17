@@ -47,33 +47,20 @@ I enjoy working on:
 
 ---
 
-## 🛠️ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
+## 💻 Tech Stack
 
-### ⚙️ Frameworks & Platforms
-![MERN](https://img.shields.io/badge/MERN-000000?style=flat&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,dart" />
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+### Frameworks
+<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,fastapi,flask" />
 
-### 🧰 Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,linux,postman,figma" />
 
 ---
 <!--

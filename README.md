@@ -19,11 +19,12 @@
   <!--<a href="mailto:aasthik.work08@gmail.com">
     <img src="https://img.shields.io/badge/Email-aasthik.work08%40gmail.com-informational?style=flat&logo=gmail" />
   </a> -->
-  <a href="https://www.linkedin.com/in/aasthik-upadhyay-0a5730213/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aasthik%20Upadhyay-blue?style=flat&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/aasthik-upadhyay-0a5730213/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
-  <a href="https://leetcode.com/u/Aasthik17/">
-    <img src="https://img.shields.io/badge/LeetCode-Aasthik17-orange?style=flat&logo=leetcode" />
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Aasthik17/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode" width="50" />
   </a>
 </p>
 

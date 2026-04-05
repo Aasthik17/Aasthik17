@@ -33,18 +33,35 @@
 </p> -->
 
 ---
-
 ## 👨‍💻 About Me
 
-I’m a **Software Developer** and **Computer Science (AIML)** undergraduate at **UPES, Dehradun**, driven by building **scalable, real-world systems** at the intersection of **AI, backend engineering, and cloud platforms**.
+<table>
+<tr>
+<td width="65%">
 
-I enjoy working on:
-- AI-powered applications (RAG, ML pipelines, edge inference)
-- Backend & distributed systems
-- Clean architecture and production-ready codebases
+I’m a **Software Developer** and **Computer Science (AIML)** undergraduate at **UPES, Dehradun**, passionate about building **scalable, intelligent systems** that bridge **AI, backend engineering, and cloud infrastructure**.
 
-🎓 **B.Tech CSE (AIML)** - *CGPA: 9.48 / 10*  
-🏆 Multiple **state-level hackathon wins** & national-level project presentations
+I specialize in designing **end-to-end AI-powered applications**, from **agentic RAG systems** and **ML pipelines** to **edge-deployed inference solutions**. My work focuses on combining **practical engineering with research-driven approaches** to solve real-world problems.
+
+🧩 What I Like Building
+- Systems that combine **AI + real-world usability**  
+- Tools that **automate repetitive workflows**  
+- Products that are **simple on the surface, powerful underneath**  
+
+🏆 Achievements:
+- 🥇 **State Winner - Udbhav Hackathon 2025** (Govt. of Uttarakhand)  
+- 🏅 **1st Prize - State Foundation Silver Jubilee Celebration**  
+- 🎤 Presented research at **IYRC 2025 (International Conference)**  
+
+</td>
+
+<td width="10%" align="center">
+
+<img src="./my-profile-video.gif" width="250" style="border-radius:10px;" />
+
+</td>
+</tr>
+</table>
 
 ---
 

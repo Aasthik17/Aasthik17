@@ -19,14 +19,28 @@
   <!--<a href="mailto:aasthik.work08@gmail.com">
     <img src="https://img.shields.io/badge/Email-aasthik.work08%40gmail.com-informational?style=flat&logo=gmail" />
   </a> -->
+
+  <!-- Portfolio -->
+
+  <a href="https://aasthik-upadhyay-portfolio.vercel.app/" target="_blank">
+    <img src="https://github.com/Aasthik17.png" width="50" style="border-radius:50%;" />
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- LinkedIn -->
+
   <a href="https://www.linkedin.com/in/aasthik-upadhyay-0a5730213/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
   &nbsp;&nbsp;
+
+  <!-- LeetCode -->
+
   <a href="https://leetcode.com/u/Aasthik17/" target="_blank">
     <img src="https://cdn.simpleicons.org/leetcode" width="50" />
   </a>
 </p>
+
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aasthik17&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />

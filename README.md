@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./profile-hero.svg" alt="Aasthik Upadhyay — Software Developer" />
 </p>
 
@@ -7,40 +7,39 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aasthik17/Aasthik17/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/AasthikUpadhyay/AasthikUpadhyay/output/github-contribution-grid-snake.svg" />
 </picture>
-</p>
+</p> -->
 
 <!--![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aasthik17&theme=github-dark)-->
 
 <!-- ===== PROFILE HEADER ===== -->
-<h1 align="center">Hi 👋, I'm Aasthik Upadhyay</h1>
+<!-- <h1 align="center">Hi 👋, I'm Aasthik Upadhyay</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="center">
+<p align="center"> -->
   <!--<a href="mailto:aasthik.work08@gmail.com">
     <img src="https://img.shields.io/badge/Email-aasthik.work08%40gmail.com-informational?style=flat&logo=gmail" />
   </a> -->
 
-  <!-- Portfolio -->
+  <!-- Portfolio 
 
   <a href="https://aasthik-upadhyay-portfolio.vercel.app/" target="_blank">
     <img src="https://github.com/Aasthik17.png" width="50" style="border-radius:50%;" />
   </a>
   &nbsp;&nbsp;
 
-  <!-- LinkedIn -->
+  <!-- LinkedIn 
 
   <a href="https://www.linkedin.com/in/aasthik-upadhyay-0a5730213/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
   &nbsp;&nbsp;
 
-  <!-- LeetCode -->
+  <!-- LeetCode 
 
   <a href="https://leetcode.com/u/Aasthik17/" target="_blank">
     <img src="https://cdn.simpleicons.org/leetcode" width="50" />
   </a>
-</p>
-
+</p> -->
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aasthik17&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />

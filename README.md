@@ -46,15 +46,18 @@
 </p> -->
 
 ---
-## 👨‍💻 About Me
+## 👨🏻‍💻 About Me
 
 <table>
 <tr>
 <td width="65%">
-
-I’m a **Software Developer** and **Computer Science (AIML)** undergraduate at **UPES, Dehradun**, passionate about building **scalable, intelligent systems** that bridge **AI, backend engineering, and cloud infrastructure**.
-
-I specialize in designing **end-to-end AI-powered applications**, from **agentic RAG systems** and **ML pipelines** to **edge-deployed inference solutions**. My work focuses on combining **practical engineering with research-driven approaches** to solve real-world problems.
+  
+Technology has always inspired me to build scalable, intelligent systems that bridge AI,
+alongside backend engineering and cloud infrastructure. As a Software Developer pursuing
+next-generation AI at UPES, Dehradun, I enjoy designing end-to-end AI-powered systems,
+including agentic RAG systems, ML pipelines, and edge-deployed inference solutions.  
+Your ideas become meaningful when paired with practical engineering, so I strive to combine
+advanced research with production-ready software that solves real-world problems.
 
 🧩 What I Like Building
 - Systems that combine **AI + real-world usability**  
@@ -68,7 +71,7 @@ I specialize in designing **end-to-end AI-powered applications**, from **agentic
 
 </td>
 
-<td width="10%" align="center">
+<td width="20%" align="center">
 
 <img src="./my-profile-video.gif" width="250" style="border-radius:10px;" />
 
@@ -79,21 +82,14 @@ I specialize in designing **end-to-end AI-powered applications**, from **agentic
 ---
 
 
-## 💻 Tech Stack
+## 💻 Technologies I Work With
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,dart" />
+<p align="center">
 
-### Frameworks
-<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,fastapi,flask" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,react,nextjs,nodejs,flutter,aws,docker,pytorch,tensorflow,git&theme=dark" />
+<sub><i>...and many more.</i></sub>
+</p>
 
-### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,linux,postman,figma" />
-
----
 <!--
 ## 🚀 Featured Projects
 

@@ -71,7 +71,7 @@ advanced research with production-ready software that solves real-world problems
 
 </td>
 
-<td width="20%" align="center">
+<td width="10%" align="center">
 
 <img src="./my-profile-video.gif" width="250" style="border-radius:10px;" />
 

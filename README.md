@@ -52,12 +52,9 @@
 <tr>
 <td width="65%">
   
-Technology has always inspired me to build scalable, intelligent systems that bridge AI,
-alongside backend engineering and cloud infrastructure. As a Software Developer pursuing
-next-generation AI at UPES, Dehradun, I enjoy designing end-to-end AI-powered systems,
-including agentic RAG systems, ML pipelines, and edge-deployed inference solutions.  
-Your ideas become meaningful when paired with practical engineering, so I strive to combine
-advanced research with production-ready software that solves real-world problems.
+I'm a **Software Developer** and **Computer Science (AI/ML)** undergraduate at **UPES, Dehradun**, passionate about building **scalable AI systems**, modern **backend architectures**, and **cloud-native applications**.
+
+From **agentic AI** and **RAG systems** to **edge AI** and **production-ready software**, I enjoy turning complex ideas into reliable, impactful products. I believe the best technology is **simple on the surface, powerful underneath**, and built to solve real-world problems.
 
 🧩 What I Like Building
 - Systems that combine **AI + real-world usability**  
